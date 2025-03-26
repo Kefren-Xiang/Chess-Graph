@@ -31,6 +31,7 @@ def examine_status(board):
         return 1.0 if board.turn == chess.BLACK else -1.0
     else:
         return 0.0
+```
 
 ---
 
