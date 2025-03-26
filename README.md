@@ -78,6 +78,8 @@ def examine_status(board):
 
 强化学习阶段默认使用 [**Stockfish 17**](https://stockfishchess.org/) 作为对手进行对弈。
 
+引擎下载地址：https://stockfishchess.org/download/
+
 配置如下：
 
 ```python
